@@ -17,6 +17,7 @@ This term is used in conjunction with consolidation, opacity, and nodules to des
 *** 
 
 ![](./_image/2017-04-29-07-19-16.jpg)
+
 **肺泡**基本上就是airspace的代表，当然，我们仔细阅读上面的解剖学定义，就会明白airspace还包含了**呼吸性支气管**
 
 ![](./_image/2017-04-29-07-20-57.jpg)
