@@ -1,8 +1,8 @@
 # 支气管空气征 air bronchogram
 ## Radiographsand CT scans（英）
-       —An air bronchogram is a pattern of air-filled (low-attenuation)bronchi on a background of opaque (high-attenuation) airless lung . The sign implies (a) patency of proximal airways and (b) evacuation of alveolar airby means of absorption (atelectasis) or replacement (eg, pneumonia) or acombination of these processes. In rare cases, the displacement of air is the result of marked interstitial expansion (eg, lymphoma) (8).
+An air bronchogram is a pattern of air-filled (low-attenuation)bronchi on a background of opaque (high-attenuation) airless lung . The sign implies (a) patency of proximal airways and (b) evacuation of alveolar airby means of absorption (atelectasis) or replacement (eg, pneumonia) or acombination of these processes. In rare cases, the displacement of air is the result of marked interstitial expansion (eg, lymphoma) (8).
 ## X线成像与CT扫描 （中）
-       — 空气支气管征是指在不透亮的（高密度）不含空气的肺组织内衬托出充盈有气体的支气管（低密度）。这种征象意味着（a）近侧支气管通畅，（b）肺泡内的空气被排出，如被吸收（肺不张）或被取代（如，肺炎）或这些过程都存在。在比较少见的情况下，空气被取代的结果是有显著的间质扩张所致（如，淋巴瘤）。
+空气支气管征是指在不透亮的（高密度）不含空气的肺组织内衬托出充盈有气体的支气管（低密度）。这种征象意味着（a）近侧支气管通畅，（b）肺泡内的空气被排出，如被吸收（肺不张）或被取代（如，肺炎）或这些过程都存在。在比较少见的情况下，空气被取代的结果是有显著的间质扩张所致（如，淋巴瘤）。
 
 ![](./_image/2017-04-29-06-16-07.jpg)
 
