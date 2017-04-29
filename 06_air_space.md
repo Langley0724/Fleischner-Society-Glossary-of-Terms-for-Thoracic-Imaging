@@ -9,7 +9,7 @@ This term is used in conjunction with consolidation, opacity, and nodules to des
 含气空间这个词，与实变、不透亮、及结节等一起应用，描述含气空间被病变的产物所填充。
 > airspace 这个词，用在其他领域有很多专业的翻译词义，如航空上称为空域、领空等，但笔者却没有查到医学上用于描述正常肺部含气结构中文如何翻译才准确。这里把问题留给大家，请各位专家和学子贡献你的宝贵见解
 
-###**在《Fleischner Society胸部成像术语》一文中，对airspaces 这个术语的解释并没有插图。**
+### **在《Fleischner Society胸部成像术语》一文中，对airspaces 这个术语的解释并没有插图。**
 笔者在研究airspaces与interstitial的关系时，想起了一个国内医生常常含混不清的问题。Interstitial，显然是间质，但在中文里，大家常用实质来与间质相对应，其实这是不准确的。
 在英文的概念里，与Interstitial间质相对应的，是airspace。下面来深入地研究一下它们两者之间的关系。
 
