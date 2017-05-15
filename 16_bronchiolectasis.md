@@ -16,6 +16,7 @@ Bronchiolectasis is defined as dilatation of bronchioles. It is caused by inflam
 
 
 ![](./_image/2017-05-15-16-44-17.jpg)
+
 Discrete bronchiectasis and diffuse bronchiolectasis were observed on the CT scan 
 在CT扫描中，可见散在和弥漫的细支气管扩张。【病例来源：Arch Bronconeumol.2013;49:411-2 - Vol. 49 Num.9 DOI: 10.1016/j.arbr.2013.07.009】
 (A and B) An increase in the bronchoalveolar ratio is seen in the high definition CT scan during inspiration and expiration, a radiological sign suggestive of bronchiectasis and diffuse bronchiolectasis. No radiological signs of air trapping are observed. (C) Histological sample obtained from lung biopsy: Masson's trichrome stain; bronchiolar submucosal fibrosis is seen, along with the appearance of small scars. (D) Histological sample obtained from the lung biopsy: hematoxylin–eosin stain: bronchial obliteration can be observed.
