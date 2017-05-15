@@ -6,7 +6,7 @@
 * [003 air bronchogram 空气支气管征](03_air-bronchogram.md)
 * [004 air crescent 空气新月征](04_air-crescent.md)
 * [005 air trapping 空气潴留](05_air-trapping.md)
-* [006 air space 含气腔隙](06_air_space.md)
+* [006 air space 含气腔隙实质与间质病变分辨](06_air_space.md)
 * [007 aortopulmonary window 主肺动脉窗](07_aortopulmonary_window.md)
 * [008 apical cap 肺尖帽](08_apical_cap.md)
 * [009 architectural distortion 结构变形](09_architectural_distortion.md)
